@@ -1,0 +1,15 @@
+{
+  "name": "jscobosafe",
+  "version": "1.0.0",
+  "description": "\"A Javascript SDK for sending transactions via Cobo Safe.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "argussupport@cobo.com",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "ethers": "^6.5.1"
+  }
+}
