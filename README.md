@@ -1,6 +1,6 @@
 # Cobo Safe Javascript SDK
 
-A Javascript SDK for sending transactions via [Cobo Safe](https://github.com/coboglobal/cobosafe).
+A Javascript SDK for sending transactions via [Cobo Safe](https://github.com/coboglobal/cobosafe) in the same way as [ethers.js](https://github.com/ethers-io/ethers.js/).
 
 # Installation
 
