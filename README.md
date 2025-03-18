@@ -12,7 +12,7 @@ npm i git+https://github.com/coboglobal/jscobosafe
 
 A sample can be found [here](./sample/sample.js).
 
-Learn more about Cobo Safe and Cobo Argus at [Cobo Developer Hub](https://developers.cobo.com/smart-contract-custody/coboargus).
+Learn more about Cobo Safe and Cobo Argus at [Cobo Developer Hub](https://www.cobo.com/developers/v1/overview/smart-contract-wallet/cobosafe).
 
 # License
 
